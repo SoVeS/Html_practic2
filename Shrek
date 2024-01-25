@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Shrek.com</title>
+    </head>
+    <body>
+        <h1><p align = "center"><font color = "green">Welcome</font></p></h1><hr color="green">
+            <img align="middle" src="C:\Users\kitae\Downloads\337736_lxxxTFXn4Z_1.jpg" width="1465" height="677"><br color="green">
+
+            <audio src="C:\Users\kitae\Downloads\Shrek_-_Somebody_once_told_me_63833509.mp3"controls autoplay muted loop align="right"></audio><br><hr color="green">
+
+            <iframe width="1465" height="677" src="https://www.youtube.com/embed/tzgy93dvHqE"
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+            picture-in-picture" allowfullscreen></iframe><br><hr color="green">
+
+            <video width="1465" height="677" src="C:\Users\kitae\Downloads\The Ultimate “Shrek 2” Recap Cartoon.mp4" controls muted loop ></video>
+    </body>
+</html>
